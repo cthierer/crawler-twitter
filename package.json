@@ -1,0 +1,19 @@
+{
+  "name": "crawler-twitter",
+  "version": "1.0.0",
+  "description": "Collects tweets from Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cthierer/crawler-twitter.git"
+  },
+  "author": "Chris Thierer <cthierer1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cthierer/crawler-twitter/issues"
+  },
+  "homepage": "https://github.com/cthierer/crawler-twitter#readme"
+}
